@@ -12,3 +12,7 @@ body{
 .icon-users{
     color: #9B1C20;
 }
+
+html, body {
+    overflow-x: hidden;
+}
